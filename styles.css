@@ -173,7 +173,7 @@ button{
 .botao2{
     background-color: #FF002E;
 }
-@media (max-width:500px){
+@media (max-width:400px){
     main{
         flex-direction: column;
         align-items: center;
@@ -218,7 +218,7 @@ button{
         height: 5vh;
     }
     .box{
-        width: 29vw;
+        width: 150px;
     }
     .botao{
         height: 20vh;
